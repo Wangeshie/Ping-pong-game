@@ -1,0 +1,5 @@
+# Requirements for the Ping Pong Game
+# This project requires Python 3.x
+
+# Specify the minimum Python version
+python>=3.6
